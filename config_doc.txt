@@ -1,0 +1,3 @@
+https://redbyte.eu/en/blog/using-the-nginx-auth-request-module/
+
+https://github.com/okta/samples-nodejs-express-4/blob/master/config.js
